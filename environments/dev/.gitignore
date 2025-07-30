@@ -1,0 +1,2 @@
+# Ignore tfvars files
+**/terraform.tfvars
